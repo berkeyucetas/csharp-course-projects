@@ -1,0 +1,10 @@
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\bin\Debug\BY_Airlines.exe.config
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\bin\Debug\BY_Airlines.exe
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\bin\Debug\BY_Airlines.pdb
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\obj\Debug\BY_Airlines.csproj.AssemblyReference.cache
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\obj\Debug\BY_Airlines.Form1.resources
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\obj\Debug\BY_Airlines.Properties.Resources.resources
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\obj\Debug\BY_Airlines.csproj.GenerateResource.cache
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\obj\Debug\BY_Airlines.csproj.CoreCompileInputs.cache
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\obj\Debug\BY_Airlines.exe
+C:\Users\Beko\source\repos\BY_Airlines\BY_Airlines\obj\Debug\BY_Airlines.pdb
