@@ -1,0 +1,27 @@
+﻿string url = "https://www.tcmb.gov.tr/kurlar/today.xml";
+            var xmlDoc = new XmlDocument();
+            xmlDoc.Load(url);
+
+            string dolarAlis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='USD']/BanknoteBuying").InnerXml;
+            string dolarSatis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='USD']/BanknoteSelling").InnerXml;
+
+            string euroAlis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='EUR']/BanknoteBuying").InnerXml;
+            string euroSatis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='EUR']/BanknoteSelling").InnerXml;
+
+            string TurkLirasiAlis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='TRY']/BanknoteBuying").InnerXml;
+            string TurkLirasiSatis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='TRY']/BanknoteSelling").InnerXml;
+
+            string sterlinAlis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='GBP']/BanknoteBuying").InnerXml;
+            string sterlinSatis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='GBP']/BanknoteSelling").InnerXml;
+
+            Console.WriteLine("Dolar Alış Fiyatı: "+ dolarAlis);
+            Console.WriteLine("Dolar Satış Fiyatı: " + dolarSatis);
+
+            Console.WriteLine("Euro Alış Fiyatı: "+ euroAlis);
+            Console.WriteLine("Euro Satış Fiyatı "+ euroSatis);
+
+            Console.WriteLine("Türk Lirası Alış Fiyatı: "+ TurkLirasiAlis);
+            Console.WriteLine("Türk Lirası Satış Fiyatı: " + TurkLirasiSatis);
+
+            Console.WriteLine("Sterlin Alış Fiyatı: "+ sterlinAlis);
+            Console.WriteLine("Sterlin Satış Fiyatı: " + sterlinSatis);
