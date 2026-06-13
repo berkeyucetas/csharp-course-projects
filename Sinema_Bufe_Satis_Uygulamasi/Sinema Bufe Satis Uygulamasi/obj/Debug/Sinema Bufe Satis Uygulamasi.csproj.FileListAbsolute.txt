@@ -1,0 +1,10 @@
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\bin\Debug\Sinema Bufe Satis Uygulamasi.exe.config
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\bin\Debug\Sinema Bufe Satis Uygulamasi.exe
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\bin\Debug\Sinema Bufe Satis Uygulamasi.pdb
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\obj\Debug\Sinema Bufe Satis Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.Form1.resources
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.Properties.Resources.resources
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\obj\Debug\Sinema Bufe Satis Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\obj\Debug\Sinema Bufe Satis Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\obj\Debug\Sinema Bufe Satis Uygulamasi.exe
+C:\Users\Beko\source\repos\Sinema Bufe Satis Uygulamasi\Sinema Bufe Satis Uygulamasi\obj\Debug\Sinema Bufe Satis Uygulamasi.pdb
